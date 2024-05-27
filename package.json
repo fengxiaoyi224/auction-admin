@@ -1,0 +1,26 @@
+{
+  "name": "auction-admin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "core-js": "^3.25.3",
+    "echarts": "^5.4.0",
+    "element-ui": "^2.15.10",
+    "vue": "^2.7.10",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.6.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.19",
+    "@vue/cli-plugin-router": "^4.5.19",
+    "@vue/cli-service": "^4.5.19",
+    "less": "^4.2.0",
+    "less-loader": "^7.3.0",
+    "vue-template-compiler": "^2.7.10"
+  }
+}

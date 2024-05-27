@@ -1,0 +1,29 @@
+html, body, #app {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	font-size: 12px;
+	font-family: '微软雅黑';
+}
+
+.el-breadcrumb {
+	margin-bottom: 15px !important;
+	font-size: 12px;
+}
+
+.el-card {
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .15);
+}
+
+.table-box {
+	margin-top: 15px;
+	min-height: 300px;
+}
+
+/*.header-search-box {*/
+/*	margin-bottom: 15px;*/
+/*}*/
+
+.header-bar {
+	padding-left: 8px;
+}
